@@ -29,8 +29,8 @@ While revising classical cryptography for Security+, I wondered whether a Sudoku
 
 ## Screenshots
 
-![Genesis Grid](screenshots/1x.png)
-![Encryption](screenshots/1xx.png)
+![Genesis Grid](1x.png)
+![Encryption](1xx.png)
 
 ## Run
 
